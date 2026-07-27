@@ -19,7 +19,7 @@ I love solving algorithmic problems, participating in hackathons, and continuous
 Currently, I'm looking for Software Development Internship opportunities where I can contribute, learn from experienced engineers, and grow into a high-impact software developer.
 
 - 🚀 National Winner — Smart India Hackathon 2025
-- 💻 780+ Problems Solved on LeetCode
+- 💻 800+ Problems Solved on LeetCode
 - 🏆 Knight @ LeetCode (1833 Rating)
 - 🌱 Currently learning System Design, Advanced Backend Development & AI Engineering
 - ⚡ Passionate about building products that combine Full-Stack Development with AI
@@ -90,7 +90,7 @@ Currently, I'm looking for Software Development Internship opportunities where I
 
 🥇 National Winner — Smart India Hackathon 2025
 
-💻 Knight @ LeetCode (1833 Rating)
+💻 Knight @ LeetCode (1831 Rating)
 
 🔥 Solved 780+ DSA Problems
 
@@ -103,26 +103,6 @@ Currently, I'm looking for Software Development Internship opportunities where I
 - Adobe India Hackathon
 - Amazon Machine Learning School
 - INSOMNIA'26 IIT Roorkee
-
----
-
-# 📈 Competitive Programming
-
-- 💻 780+ Problems Solved
-- 🏆 Knight @ LeetCode
-- ⭐ 1596 Max Rating on CodeChef
-- 🚀 47+ Coding Contests
-
----
-
-# 📚 Currently Learning
-
-- Advanced Backend Development
-- System Design
-- AI Engineering
-- LLM Applications
-- Scalable Web Architecture
-
 ---
 
 # 🤝 What I Bring to a Team
@@ -169,9 +149,9 @@ Currently, I'm looking for Software Development Internship opportunities where I
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NILESH2327&show_icons=true&theme=tokyonight"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NILESH2327&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESH2327&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESH2327&layout=compact&theme=tokyonight"/> -->
 
 </p>
 
@@ -182,7 +162,6 @@ Currently, I'm looking for Software Development Internship opportunities where I
 </p>
 
 ---
-
 <h3 align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </h3>
